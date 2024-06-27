@@ -1,0 +1,11 @@
+2024/06/27 18:21:22 [emerg] 19000#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/06/27 18:21:22 [emerg] 19000#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/06/27 18:21:22 [emerg] 19000#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/06/27 18:21:22 [emerg] 19000#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/06/27 18:21:22 [emerg] 19000#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/06/27 18:21:22 [emerg] 19000#0: still could not bind()
+2024/06/27 18:24:38 [error] 19136#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.0.100, server: jhscomputer.kro.kr, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "192.168.0.100"
+2024/06/27 18:24:38 [error] 19136#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.0.100, server: jhscomputer.kro.kr, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "192.168.0.100", referrer: "http://192.168.0.100/"
+2024/06/27 18:24:42 [error] 19136#0: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 175.116.178.171, server: jhscomputer.kro.kr, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "jhscomputer.kro.kr"
+2024/06/27 18:32:54 [error] 19224#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 175.116.178.171, server: jhscomputer.kro.kr, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "jhscomputer.kro.kr"
+2024/06/27 18:32:55 [error] 19224#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 175.116.178.171, server: jhscomputer.kro.kr, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "jhscomputer.kro.kr"
